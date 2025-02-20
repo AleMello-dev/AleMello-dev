@@ -29,7 +29,7 @@ Tenho 23 anos, sou estudante de **Engenharia de Software** com foco em **Back-En
 
 ## 📊 **GitHub Stats**
 
-![Alexandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandra-dev&show_icons=true&theme=radical)
+![Alexandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleMello-dev_icons=true&theme=radical)
 
 ---
 
